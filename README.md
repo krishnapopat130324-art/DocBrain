@@ -11,7 +11,13 @@ A simple Python-based application that helps users track important document expi
 - Desktop notification alerts
 - Simple terminal-based interface
 
----
+## 🖼 Sample Output
+
+Here’s what the program looks like when running
+
+output.png
+
+
 
 ## 🛠️ Technologies Used
 - Python 3
