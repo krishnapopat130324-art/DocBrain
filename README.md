@@ -67,4 +67,4 @@ Krishna
 
 Here’s what the program looks like when running
 
-output.png
+output.jpeg
