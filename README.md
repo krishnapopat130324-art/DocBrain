@@ -61,10 +61,5 @@ No internet connection is required.
 
 👨‍💻 Author
 
-Krishna
+Krishna Popat
 
-## 🖼 Sample Output
-
-Here’s what the program looks like when running
-
-output.jpeg
